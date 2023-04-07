@@ -1,0 +1,1 @@
+C:\Users\sddsf\source\repos\studentApp\StudentClearanceApp\StudentClearanceApp.csproj;x64

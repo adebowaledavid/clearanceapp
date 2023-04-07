@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net7.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StudentClearanceApp
+build_property.ProjectDir = C:\Users\sddsf\source\repos\studentApp\StudentClearanceApp\
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/Controls/FlyoutHeaderControl.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.Controls.FlyoutHeaderControl.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\FlyoutHeaderControl.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\FlyoutHeaderControl.xaml
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/Views/Dashboard/BioDataPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.Views.Dashboard.BioDataPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard\BioDataPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard\BioDataPage.xaml
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/Views/Dashboard/ClearanceStatusPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.Views.Dashboard.ClearanceStatusPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard\ClearanceStatusPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard\ClearanceStatusPage.xaml
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/Views/Dashboard/DashboardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.Views.Dashboard.DashboardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard\DashboardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard\DashboardPage.xaml
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/Views/Dashboard/FinancePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.Views.Dashboard.FinancePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard\FinancePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard\FinancePage.xaml
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/Views/Dashboard/LibraryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.Views.Dashboard.LibraryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard\LibraryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard\LibraryPage.xaml
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/Views/Dashboard/LoginDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.Views.Dashboard.LoginDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard\LoginDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard\LoginDetailsPage.xaml
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/Views/Dashboard/ProfilePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.Views.Dashboard.ProfilePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard\ProfilePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard\ProfilePage.xaml
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/Views/Dashboard/StudentAffairsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.Views.Dashboard.StudentAffairsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard\StudentAffairsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard\StudentAffairsPage.xaml
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/Views/Startups/LoadingPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.Views.Startups.LoadingPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Startups\LoadingPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Startups\LoadingPage.xaml
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/Views/Startups/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.Views.Startups.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Startups\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Startups\LoginPage.xaml
+
+[C:/Users/sddsf/source/repos/studentApp/StudentClearanceApp/Views/Startups/RegisterPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StudentClearanceApp.Views.Startups.RegisterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Startups\RegisterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Startups\RegisterPage.xaml
